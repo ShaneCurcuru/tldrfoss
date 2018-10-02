@@ -1,1 +1,17 @@
 theme: jekyll-theme-minimal
+title: TL;DR FOSS
+logo: /assets/img/lifesaver.png
+description: Your simple introduction to what free and open source software means
+show_downloads: false
+google_analytics:
+
+author: Shane Curcuru
+twitter:
+  username: shanecurcuru
+  card: summary
+social:
+  name: Punderthings℠ LLC
+  links:
+    - http://punderthings.com/
+    - http://shanecurcuru.org/
+
