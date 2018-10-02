@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## [Welcome to TL;DR FOSS](http://tldrfoss.com/)!
 
-You can use the [editor on GitHub](https://github.com/ShaneCurcuru/tldrfoss/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Need help with open source?  Shane and Punderthings Consulting can help!  Expertise in open source branding/trademarks, licensing, community management, and just plain keeping your FOSS strategy above water. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TL;DR FOSS builds upon the many, many excellent guides and how-tos for everything open source, serving as your curated introduction to the basics of everything about free and open source.
 
-### Markdown
+### Thanks / Credits
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thanks to Github & Jekyll for hosting and website themes!
 
-```markdown
-Syntax highlighted code block
+Mr. Fisch Livesaver logo by M.S. Gerber.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShaneCurcuru/tldrfoss/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Copyright © [Shane Curcuru](http://shanecurcuru.org/) 2018 | A [Punderthings℠ Production](http://punderthings.com/) 
