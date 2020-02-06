@@ -6,15 +6,26 @@ A different take on the meaning of just "open source" as a concept.
 
 ## What Is Open Source?
 
+
 ## Minimal Answer
+
+Software code publicly available under an OSD-compliant license.
 
 ## Practical Answer
 
-## Philosophical Answer
+Software products where the source code is available under a well-understood copyright license that allows users to inspect, use, and redistribute that source code, including modifications, all without cost - as noted in the OSD..  That means you can both use the software to do things, as well as building new software that includes that open source software - even for sale, if you wish.  The OSI keeps a list of licenses that are OSD-compliant.
 
 ## Process/Community Answer
 
-## Antonyms - Not Open Source
+
+## Philosophical Answer
+
+
+## What Is Not Open Source?
+
+Proprietary software - where the source code is not available, or where there are restrictive licenses or fees around use of either products or the code itself.
+
+Source-available software - where the source is available to view, but is restricted by license from modifications or redistribution.
 
 ## Similar - Near Open Source
 
