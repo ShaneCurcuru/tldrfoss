@@ -18,6 +18,10 @@ An open development style software project where contributors can eventually ear
 
 Software that is publicly available that uses a license on the [FSF list that preserves the Four Freedoms](https://www.gnu.org/philosophy/free-sw.en.html).  It often, but not always, overlaps with open source licenses.  FOSS means Free and Open Source Software.
 
+## But what does Open Source really MEAN?
+
+_Open Source_ has distinct meanings in several different contexts: legally, organizationally, communities, and more.  [Read a more philosophical take on open source](/opensource).
+
 ## Where can I go to understand more about open source?
 
 - [Github's Open Source Guide](https://opensource.guide/) is a comprehensive high-level explanation of most open source concepts.
