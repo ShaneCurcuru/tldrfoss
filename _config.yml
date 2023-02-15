@@ -15,3 +15,19 @@ social:
     - http://punderthings.com/
     - http://shanecurcuru.org/
 
+seealso:
+  - title: "Choose A Foundation"
+    url: "https://chooseafoundation.com/"
+    tag: "Guide to finding a FOSS Foundation for your project"
+  - title: "FOSS Funding"
+    url: "https://fossfunding.com/"
+    tag: "How Foundations Are Funded"
+  - title: "FOSS Sustainability"
+    url: "https://fosssustainability.com/"
+    tag: "Sustainable Open Source Research"
+  - title: "Open Source Conduct"
+    url: "https://opensourceconduct.com/"
+    tag: "Codes of Conduct in FOSS"
+  - title: "Community Over Code"
+    url: "https://communityovercode.com"
+    tag: "Community-driven open source stories from Apache"
